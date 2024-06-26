@@ -1,0 +1,59 @@
+body {
+  background-color: #8e8e8e !important;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffff;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.nav_bar {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.nab_log {
+  background: url('../img/cars.png');
+  background-size: 100%;
+  width: 100px;
+  height: 42px;
+}
+
+.nav_text {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.row {
+}
+
+.col-3 {
+}
+
+.col-9 {
+}
+
+.col-6 {
+}
+
+.col-8 {
+}
+
+.col-4 {
+}
+
+.img_size {
+}
+
+.title_photo {
+  text-align: center;
+}
+
+.my_photo {
+  background: url('../img/R.jpg');
+  background-size: 100%;
+  width: 100%;
+  height: 283px;
+}
