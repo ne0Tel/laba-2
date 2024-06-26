@@ -57,3 +57,28 @@ body {
   width: 100%;
   height: 283px;
 }
+
+
+
+
+
+
+.button_js {
+  text-align: center;
+}
+
+#myButton {
+  border: none;
+  border-radius: 15px;
+  width: 125px;
+  height: 25px;
+  background-color: #be2222;
+  color: #fff;
+  font-weight: 700;
+}
+
+#demo img {
+  margin-top: 20px;
+  width: 25%;
+  height: 25%;
+}
