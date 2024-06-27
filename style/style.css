@@ -82,3 +82,18 @@ body {
   width: 25%;
   height: 25%;
 }
+
+
+.btn_red {
+  border: none;
+  border-radius: 15px;
+  width: 125px;
+  height: 25px;
+  background-color: #be2222;
+  color: #fff;
+  font-weight: 700;
+}
+
+.form {
+  margin-bottom: 15px;
+}
